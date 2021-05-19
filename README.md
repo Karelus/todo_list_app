@@ -1,7 +1,5 @@
 # todo_list_app
-Dynamic todo list made with React and Django
-
-# From the author
+Dynamic todo list made with React and Django. Python version 3.9
 
 # List View
 
