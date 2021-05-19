@@ -13,7 +13,7 @@ Dynamic todo list made with React and Django. Python version 3.9
 
 ![image](https://user-images.githubusercontent.com/49402752/118816520-e9bf7a80-b8ba-11eb-9b02-3d647ea20a32.png)
 
-# Admin Edit Todo
+# Admin Todo Control
 
 ![image](https://user-images.githubusercontent.com/49402752/118816567-f7750000-b8ba-11eb-82df-da7fd86a73a1.png)
 
