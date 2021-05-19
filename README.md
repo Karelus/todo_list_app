@@ -3,16 +3,20 @@ Dynamic todo list made with React and Django
 
 # From the author
 
-List View
+# List View
+
 ![image](https://user-images.githubusercontent.com/49402752/118816328-ba107280-b8ba-11eb-8b87-51b5fc791966.png)
 
-Register Page
+# Register Page
+
 ![image](https://user-images.githubusercontent.com/49402752/118816486-e2986c80-b8ba-11eb-83d7-af44974a696f.png)
 
-Edit View
+# Edit View
+
 ![image](https://user-images.githubusercontent.com/49402752/118816520-e9bf7a80-b8ba-11eb-9b02-3d647ea20a32.png)
 
-Admin Edit Todo
+# Admin Edit Todo
+
 ![image](https://user-images.githubusercontent.com/49402752/118816567-f7750000-b8ba-11eb-82df-da7fd86a73a1.png)
 
 # Getting Started with Create React App
