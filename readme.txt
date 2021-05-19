@@ -1,1 +1,0 @@
-To Do application created with React and Django
