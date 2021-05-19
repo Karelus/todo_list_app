@@ -1,0 +1,138 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background: #1f4037;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #498EC7, #d7e3f8);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #498EC7, #d7e3f8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  #todo-flex-container {
+      max-width:600px;
+      margin:0 auto;
+      box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+      background-color: white;
+      color: white;
+      
+      margin-top:100px;
+      margin-bottom:100px;
+  
+      justify-content: space-between;
+      align-items: flex-start;
+      font-family: 'Oswald', sans-serif;
+  }
+  
+  #form-container{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0rem;
+    background-color: rgb(73, 142, 199);
+    color: white;
+    padding: 60px;
+  }
+  
+  #submit{
+    background-color: #36d9b6;
+    border-radius: 0;
+    border:0;
+    color: #fff;
+  }
+  
+  .flex-wrapper{
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  .todo-wrapper{
+      margin:5px;
+      padding:20px;
+      cursor: pointer;
+      background-color: rgb(238, 236, 236);
+      color: black;
+      margin: 10px;
+      align-items: center;
+      font-family: 'Oswald', sans-serif;
+    }
+
+  .App {
+    width:50%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .app-header {
+    font-family: 'Pattaya', sans-serif;
+    text-align: center;
+  }
+
+  .completed {
+    text-decoration: line-through !important;
+  }
+
+  .button {
+    margin-left: 5px;
+  }
+
+  .cancel-button {
+    margin-left: 5px;
+  }
+
+  .edit-button {
+    margin: 5px !important;
+  }
+
+  .task-header {
+    color: rgb(224, 222, 222);
+    text-align: center;
+    padding: 20px;
+  }
+
+  #list-wrapper {
+    padding: 20px;
+  }
+
+  .login-error-text {
+    margin-top: 30px;
+    text-align: center;
+    color: red;
+    font-weight: 700;
+  }
+
+  .task-header-container {
+    position: relative;
+  }
+
+  .task-count {
+    position: absolute;
+    top: 5px;
+    right: 30px;
+    color: rgb(224, 222, 222);
+  }
+
+  .login-flex-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .login-field {
+    margin: 10px !important;
+  }
+
+  .login-button-container {
+    flex: 100%;
+    text-align: center;
+    position: relative;
+  }
+
+  .register-text {
+    position: absolute;
+    right: 0px;
+    top: 7px;
+  }
+
+  .homepage-flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
